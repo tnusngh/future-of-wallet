@@ -24,3 +24,18 @@ Players can submit open-ended questions and responses to these characters, allow
 
 #### Unique and Entertaining Responses
 The AI-powered NPCs generate unique and entertaining responses, making each interaction fun and memorable. This approach not only enhances the gameplay experience but also provides an educational element, helping players better understand complex Web3 concepts through natural, conversational dialogue.
+
+### Open-World Adventure
+After completing the training levels, players enter an open-world blockchain-connected city featuring various DeFi and Web3 concepts, including:
+- GameFi
+- DAOs
+- Yield farming
+- NFTs
+
+Players interact with unique characters and complete missions involving NPCs like the Commissioner.
+
+### Advanced Web3 Integration
+The game utilizes several advanced Web3 technologies to enhance the gameplay experience:
+- **Chainlink Automation**: Automatically triggers ETH withdrawals to replenish the in-game faucet.
+- **Chainlink Functions**: Verifies task completion and converts in-game tokens to ERC20 tokens.
+- **Chainlink VRF**: Mints randomized graduation gifts for players reaching level 7.
