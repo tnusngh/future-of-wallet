@@ -17,7 +17,7 @@ Players start in a military lab, progressing through seven training levels that 
 
 ### NPC Integration with ChatGPTo
 #### Dynamic Interactions
-In **The Future of France**, players interact with a variety of NPCs integrated with ChatGPTo. Instead of using traditional dialogue trees, these NPCs leverage AI-driven Agent Prompts to create more dynamic and engaging interactions.
+In **The Future of Wallet**, players interact with a variety of NPCs integrated with ChatGPTo. Instead of using traditional dialogue trees, these NPCs leverage AI-driven Agent Prompts to create more dynamic and engaging interactions.
 
 #### Open-Ended Input
 Players can submit open-ended questions and responses to these characters, allowing for a more personalized and immersive experience. This setup enables players to ask questions about concepts they find challenging or simply have interesting conversations with the NPCs.
